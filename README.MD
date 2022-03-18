@@ -1,4 +1,4 @@
-##  to run the hello program
+##  run the hello program
 ## go run hello.go
 
 ### Install GoLang and check for the Version
